@@ -13,10 +13,19 @@ body {
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
   font-family: 'Josefin Sans', sans-serif;
-  font-weight: 400; }
+  font-weight: 400;
+  }
 
 h1, h2 {
   font-weight: 700; }
+
+h4 {
+color: blue;
+}
+
+h5 {
+color: orange
+}
 
 .subheading {
   color: #f34949; }
@@ -73,8 +82,8 @@ a:hover {
   object-position: center; }
 
 .navbar-brand-center {
-  padding-left: 70px;
-  padding-right: 70px; }
+  padding-left: 50px;
+  padding-right: 30px; }
   .navbar-brand-center img {
     height: 50px; }
 
